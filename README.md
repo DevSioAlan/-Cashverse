@@ -1,0 +1,2 @@
+# -Cashverse
+[🌌] Cashverse Simulator
