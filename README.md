@@ -1,6 +1,6 @@
 # 🌌 Cashverse Simulator - Core Backend Systems
 
-> **Note :** Ce dépôt contient les extraits des scripts serveurs (Backend) d'un jeu de type "Simulator" développé sur Roblox. L'objectif est de mettre en avant l'architecture logicielle, la sécurité et la logique algorithmique derrière les mécaniques du jeu.
+> **Note :** Ce dépôt contient les extraits des scripts serveurs (Backend) d'un jeu de type "Simulator" développé sur Roblox Studio par Alan. L'objectif est de mettre en avant l'architecture logicielle, la sécurité et la logique algorithmique derrière les mécaniques du jeu.
 
 ## 🚀 À propos du projet
 **Cashverse Simulator** est une expérience Roblox immersive gérée par une architecture serveur robuste en **Luau**. Contrairement à une simple vitrine, ce projet démontre ma capacité à gérer des flux de données complexes, à concevoir des algorithmes mathématiques (probabilités) et à sécuriser un environnement multijoueur contre les failles courantes.
